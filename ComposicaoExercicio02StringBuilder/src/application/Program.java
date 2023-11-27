@@ -31,7 +31,7 @@ public class Program {
 		post_1.setLikes(12);
 		post_1.addComment(comment_1);
 		post_1.addComment(comment_2);
-		post_1.displayPost();
+		post_1.displayPost(); 
 		
 		post_2.setMoment(simpleDateFormat.parse("28/07/2018 23:14:19"));
 		post_2.setTitle("Boa noite pessoal");
